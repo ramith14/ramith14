@@ -29,6 +29,7 @@ Welcome to my GitHub! I am passionate about building intelligent systems, optimi
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ramith14&layout=donut&langs_count=5&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=ramith14&layout=donut&langs_count=5&theme=shadow_blue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ramith14&repo=ramith14%2FRagApplication&description_lines_count=1&theme=ambient_gradient)](https://github.com/ramith14/RagApplication)
 
 ## 📫 Connect with Me
 
