@@ -28,7 +28,7 @@ Welcome to my GitHub! I am passionate about building intelligent systems, optimi
 
 ## 📈 GitHub Stats
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium](https://github-stats-extended.vercel.app/api/top-langs?username=ramith14&layout=donut&langs_count=5&theme=shadow_blue))
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ramith14&layout=donut&langs_count=5&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=ramith14&layout=donut&langs_count=5&theme=shadow_blue)
 
 ## 📫 Connect with Me
 
