@@ -14,10 +14,6 @@ Welcome to my GitHub! I am passionate about building intelligent systems, optimi
 
 ## 💻 Featured Projects
 
-* **FormLoop:** A motion analysis system leveraging pose estimation and Dynamic Time Warping to compare dance movement joint angles frame-by-frame against reference videos.
-* **ISRO Anomaly Detection (Smart India Hackathon):** A Streamlit web application prototype designed for time-series drift prediction and dynamic outlier scoring for component burn-in screening.
-* **Mobile AI Workflows (iQOO Hackathon):** Pitched and prototyped cross-device mobile AI workflows and interfaces using Figma.
-* **System Modeling & UML:** Designed activity and collaboration diagrams for comprehensive dashboard tracking systems.
 
 ## 🛠️ Tech Stack & Tools
 
